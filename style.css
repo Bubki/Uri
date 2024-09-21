@@ -1,0 +1,109 @@
+html {
+    font-size: 20;
+    max-width: 100%;
+    font-family: "Sofadi One", system-ui;
+    padding: 30px;
+    /* margin-right: 10px; */
+    /* border: 10 solid black; */
+    background-color: rgb(211, 169, 169)
+    
+}
+
+span {
+    color: blueviolet;
+}
+
+p {
+    margin: 20px;
+    padding: 10px;
+    max-width: 100%;
+    line-height: 2;
+    /* background-color: rgb(190, 153, 153) */
+    
+}
+
+h1 {
+    text-align: center;
+
+    /* padding: 50px; */
+
+    /* background-color: rgb(224, 200, 200) */
+}
+
+
+
+h2 {
+    text-align: center;
+
+    /* padding: 50px; */
+
+    /* background-color: rgb(214, 181, 181) */
+}
+
+h3 {
+
+    margin-left: 38px;
+}
+
+hr {
+    height: 20px;
+    color: none;
+    background-color: none;
+    
+}
+
+img {
+
+    text-align: center;
+    height: 400px;
+    padding: 40px;
+    /* margin-left: 40%; */
+}
+
+.fun {
+
+
+    text-align: center;
+}
+
+button {
+
+    cursor: pointer;
+    border-radius: 50px;
+    border-color: none;
+    background-color: rgb(59, 57, 40);
+    padding: 20px;
+    text-align: right;
+    margin: 50px;
+    color: rgb(0, 1, 0);
+    margin-left: 47%;
+    
+}
+
+button:hover {
+
+    background-color: red;
+}
+
+.home:hover {
+
+    background-color: black;
+    cursor: pointer;
+}
+
+a {
+
+    text-decoration: none;
+    color: pink;
+}
+
+a:hover {
+
+    background-color: black;
+}
+
+.war {
+
+    text-align: center;
+    margin-left: 35%;
+}
